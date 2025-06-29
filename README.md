@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandhiya S</h1>
+<h1 align="center">Hi 👋, I'm Sandhiya </h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhiya1321&label=Profile%20views&color=0e75b6&style=flat" alt="sandhiya1321" /> </p>
