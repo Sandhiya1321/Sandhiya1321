@@ -1,7 +1,9 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
 <h1 align="center">Hey there 👋, I'm Sandhiya </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhiya1321&label=Profile%20views&color=0e75b6&style=flat" alt="sandhiya1321" /> </p>
 - 🌱 I’m currently learning **DSA,Front end**
 
 - 📫 How to reach me **sandhiyasaprkle1234@gmail.com**
@@ -17,8 +19,6 @@ Computer Science And Engineering Student
 
 ###
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhiya1321&label=Profile%20views&color=0e75b6&style=flat" alt="sandhiya1321" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandhiya1321" alt="sandhiya1321" /></a> </p>
 <img src="https://raw.githubusercontent.com/Sandhiya1321/Sandhiya1321/output/snake.svg" alt="Snake animation" />
