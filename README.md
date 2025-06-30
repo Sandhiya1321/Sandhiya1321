@@ -29,8 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhiya1321&show_icons=true&locale=en" alt="sandhiya1321" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhiya1321&" alt="sandhiya1321" /></p>
-## 🐍 GitHub Contribution Snake
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhiya1321/YOUR_REPO/output/github-contribution-grid-snake-dark.svg" />
