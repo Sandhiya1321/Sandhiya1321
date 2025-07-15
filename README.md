@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="250" src="https://i.gifer.com/Ud0S.gif" />
 </div>
 
 <h1 align="center">Hey there 👋, I'm Sandhiya </h1>
