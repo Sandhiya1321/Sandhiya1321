@@ -20,8 +20,6 @@ Computer Science And Engineering Student
 ###
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandhiya1321" alt="sandhiya1321" /></a> </p>
-<img src="https://raw.githubusercontent.com/Sandhiya1321/Sandhiya1321/output/snake.svg" alt="Snake animation" />
 
 ###
 
