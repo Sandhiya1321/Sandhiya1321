@@ -10,6 +10,7 @@
 
 - 🌱 I’m currently learning **DSA, Frontend**
 - 📫 How to reach me **sandhiyasaprkle1234@gmail.com**
+- 🧠 Actively solving problems on [LeetCode](https://leetcode.com/u/Diya1213/) to sharpen my problem-solving skills
 
 ---
 
@@ -17,7 +18,10 @@
 
 🎓 Computer Science and Engineering Student  
 📚 Passionate about **Java development**, **DSA**, and **Frontend technologies**  
-⚡ In my free time I love to play games
+⚡ In my free time I love to read fictional stories(online)
+
+💡 Completed basics of **Java**, including **Recursion** and **OOPS concepts**  
+🧮 Built a functional **calculator** using **HTML, CSS, and JavaScript**
 
 ---
 
@@ -56,8 +60,8 @@
   </a> 
 </p>
 
-🧰 Tools: IntelliJ, Git, GitHub, VS Code, Eclipse  
-💡 Soft Skills: Analytical Thinking, Problem-Solving, Adaptability  
+🧰 Tools: IntelliJ, GitHub(using basic command), VS Code, Eclipse(basics)  
+💡 Soft Skills: Analytical Thinking, Problem-Solving, Adaptability,Concurrent programmer,Time management  
 
 ---
 
@@ -75,7 +79,7 @@
   <a href="https://instagram.com/sandy_offici_13" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/diya1213" target="blank">
+  <a href="https://www.leetcode.com/Diya1213" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
