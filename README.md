@@ -18,10 +18,11 @@
 
 🎓 Computer Science and Engineering Student  
 📚 Passionate about **Java development**, **DSA**, and **Frontend technologies**  
+💭 Planning to study MYSQL and SpringBoot in future.  
 ⚡ In my free time I love to read fictional stories(online)
 
 💡 Completed basics of **Java**, including **Recursion** and **OOPS concepts**  
-🧮 Built a functional **calculator** using **HTML, CSS, and JavaScript**
+🧮 Built a functional **calculator** using **HTML, CSS, and JavaScript**,,,,....**flappy bird game**  and  **CGPA Calculator**
 
 ---
 
