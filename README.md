@@ -11,6 +11,11 @@
 - 🌱 I’m currently learning **DSA, Frontend**
 - 📫 How to reach me **sandhiyasaprkle1234@gmail.com**
 - 🧠 Actively solving problems on [LeetCode](https://leetcode.com/u/Diya1213/) to sharpen my problem-solving skills
+- 📄 <a href="https://drive.google.com/file/d/1ABYxSDu5SMMzPS7FrwviFo4nbvx4tMIF/view?usp=sharing" target="blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" height="30" width="30" />
+    <span style="vertical-align: middle;">Resume</span>
+  </a>
+
 
 ---
 
@@ -89,3 +94,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
