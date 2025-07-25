@@ -8,6 +8,20 @@
   <img src="https://komarev.com/ghpvc/?username=sandhiya1321&label=Profile%20views&color=0e75b6&style=flat" alt="sandhiya1321" /> 
 </p>
 
+
+
+### 👩‍💻 About Me
+
+🎓 Computer Science and Engineering Student  
+📚 Passionate about **Java development**, **DSA**, and **Frontend technologies**  
+💭 Planning to study MYSQL and SpringBoot in future.  
+⚡ In my free time I love to read fictional stories(online)
+
+💡 Completed basics of **Java**, including **Recursion** and **OOPS concepts**  
+🧮 Built a functional **calculator** using **HTML, CSS, and JavaScript**
+🧮 **flappy bird game**  and  **CGPA Calculator** using **Java Oops Concept**
+
+---
 - 🌱 I’m currently learning **DSA, Frontend**
 - 📫 How to reach me **sandhiyasaprkle1234@gmail.com**
 - 🧠 Actively solving problems on [LeetCode](https://leetcode.com/u/Diya1213/) to sharpen my problem-solving skills
@@ -18,19 +32,6 @@
 
 
 ---
-
-### 👩‍💻 About Me
-
-🎓 Computer Science and Engineering Student  
-📚 Passionate about **Java development**, **DSA**, and **Frontend technologies**  
-💭 Planning to study MYSQL and SpringBoot in future.  
-⚡ In my free time I love to read fictional stories(online)
-
-💡 Completed basics of **Java**, including **Recursion** and **OOPS concepts**  
-🧮 Built a functional **calculator** using **HTML, CSS, and JavaScript**,,,,....**flappy bird game**  and  **CGPA Calculator**
-
----
-
 ### 💻 Technical Projects
 
 #### 📊 CGPA Calculator (May 2025)
