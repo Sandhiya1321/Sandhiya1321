@@ -14,10 +14,10 @@
 
 🎓 Computer Science and Engineering Student  
 📚 Passionate about **Java development**, **DSA**, and **Frontend technologies**  
-💭 Planning to study MYSQL and SpringBoot in future.  
+💭 Planning to study SpringBoot in future.  
 ⚡ In my free time I love to read fictional stories(online)
 
-💡 Completed basics of **Java**, including **Recursion** and **OOPS concepts**  
+💡 Completed basics of **Java**, including **Recursion**  **OOPS concepts**  and **SQL**
 🧮 Built a functional **calculator** using **HTML, CSS, and JavaScript**
 🧮 **flappy bird game**  and  **CGPA Calculator** using **Java Oops Concept**
 
@@ -67,7 +67,7 @@
   </a> 
 </p>
 
-🧰 Tools: IntelliJ, GitHub(using basic command), VS Code, Eclipse(basics)  
+🧰 Tools: IntelliJ, GitHub(using basic command), VS Code, Eclipse(basics), MySQL workbench 
 💡 Soft Skills: Analytical Thinking, Problem-Solving, Adaptability,Concurrent programmer,Time management  
 
 ---
