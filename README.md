@@ -67,9 +67,11 @@
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
   </a> 
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="150"/>
 </p>
 
 🧰 Tools: IntelliJ, GitHub(using basic command), VS Code, Eclipse(basics), MySQL workbench 
+
 💡 Soft Skills: Analytical Thinking, Problem-Solving, Adaptability,Concurrent programmer,Time management  
 
 ---
