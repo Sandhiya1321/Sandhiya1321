@@ -86,21 +86,23 @@
 
 ---
 
+
+
 ### 🤝 Connect with Me
 
 <p align="left">
+  <a href="mailto:sandhiyasaprkle1234@gmail.com" target="blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" height="30" width="40" />
+  </a>
   <a href="https://instagram.com/sandy_offici_13" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/Diya1213" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
+  <a href="https://drive.google.com/file/d/1ABYxSDu5SMMzPS7FrwviFo4nbvx4tMIF/view?usp=sharing" target="blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" height="30" width="40" />
+  </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
 
 
