@@ -51,6 +51,16 @@
   - 🎲 **Randomized obstacles** using data structures
 - Delivered a dynamic and engaging gameplay experience
 
+  
+#### 🧳 Lost and Found Portal (August 2025)  
+- Created a **Java console application** to streamline lost item reporting and retrieval  
+- Leveraged **OOP principles** for modular and scalable design:  
+  - 🧩 **Inheritance** for role-based access (Admin, Finder, Seeker)  
+  - 🔐 **Encapsulation** to safeguard user and item data  
+  - 🔄 **Polymorphism** enabling dynamic search and match features  
+- Tools used: **Java**, **IntelliJ IDEA**
+
+
 ---
 
 
