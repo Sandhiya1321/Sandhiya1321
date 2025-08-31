@@ -52,15 +52,21 @@
 - Delivered a dynamic and engaging gameplay experience
 
   
-#### 🧳 Lost and Found Portal (August 2025)  
-- Created a **Java console application** to streamline lost item reporting and retrieval  
-- Leveraged **OOP principles** for modular and scalable design:  
-  - 🧩 **Inheritance** for role-based access (Admin, Finder, Seeker)  
-  - 🔐 **Encapsulation** to safeguard user and item data  
-  - 🔄 **Polymorphism** enabling dynamic search and match features  
-- Tools used: **Java**, **IntelliJ IDEA**
+#### 🧳 Lost and Found Portal (Java + MySQL + JDBC) (August 2025)  
+- A simple **Lost and Found management system** built using **Core Java, MySQL, and JDBC**.  
+Users can **add, view, and search items** with data stored in a MySQL database.  
+The project demonstrates **basic CRUD operations** with **JDBC connectivity**.  
+Runs on the **console interface** using Java.  
+Perfect for **beginners learning Java + Database integration**.
+- Tools used: **Java**, MYSQL**IntelliJ IDEA**
 
+# 🏷 Lost and Found Portal (Java + MySQL + JDBC)
 
+A simple **Lost and Found management system** built using **Core Java, MySQL, and JDBC**.  
+Users can **add, view, and search items** with data stored in a MySQL database.  
+The project demonstrates **basic CRUD operations** with **JDBC connectivity**.  
+Runs on the **console interface** using Java.  
+Perfect for **beginners learning Java + Database integration**.
 ---
 
 
