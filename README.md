@@ -17,7 +17,7 @@
 💭 Planning to study SpringBoot in future.  
 ⚡ In my free time I love to read fictional stories(online)
 
-💡 Completed basics of **Java**, including **Recursion**  **OOPS concepts**  and **SQL**
+💡 Completed basics of **Java**, including **Recursion**  **OOPS concepts**  **SQL** and **JDBC**
 
 🧮 Built a functional **calculator** using **HTML, CSS, and JavaScript**
 
@@ -36,14 +36,15 @@
 ---
 ### 💻 Technical Projects
 
-#### 📊 CGPA Calculator (May 2025)
+## 📊 CGPA Calculator (May 2025)
 - Developed a **web-based CGPA calculator** using **Java**
 - Applied **Object-Oriented Programming (OOP)** principles:
   - 🔐 **Encapsulation** to secure user input
   - 🔄 **Polymorphism** to support diverse grading systems
 - Designed for **university students** to manage academic performance efficiently
 
-#### 🎮 Flappy Bird Game (March 2025)
+## 🎮 Flappy Bird Game (March 2025)
+
 - Built using **Java**, with **Swing** and **JavaFX** for graphics rendering
 - Implemented:
   - 🌀 **Game physics**: gravity, velocity, and smooth game loop
@@ -51,26 +52,18 @@
   - 🎲 **Randomized obstacles** using data structures
 - Delivered a dynamic and engaging gameplay experience
 
-  
-#### 🧳 Lost and Found Portal (Java + MySQL + JDBC) (August 2025)  
-- A simple **Lost and Found management system** built using **Core Java, MySQL, and JDBC**.  
-Users can **add, view, and search items** with data stored in a MySQL database.  
-The project demonstrates **basic CRUD operations** with **JDBC connectivity**.  
-Runs on the **console interface** using Java.  
-Perfect for **beginners learning Java + Database integration**.
-- Tools used: **Java**, MYSQL**IntelliJ IDEA**
 
-# 🏷 Lost and Found Portal (Java + MySQL + JDBC)
+## 🧳 Lost and Found Portal (August 2025)
 
-A simple **Lost and Found management system** built using **Core Java, MySQL, and JDBC**.  
-Users can **add, view, and search items** with data stored in a MySQL database.  
-The project demonstrates **basic CRUD operations** with **JDBC connectivity**.  
-Runs on the **console interface** using Java.  
-Perfect for **beginners learning Java + Database integration**.
+- Developed a **console-based Java application** to manage lost and found items  
+- Integrated with **MySQL** using **JDBC** for persistent data storage  
+- Implemented:  
+  - 🗃️ **CRUD operations**: add, view, and search items  
+  - 🔗 **Secure SQL queries** with JDBC  
+  - 🧠 **Object-Oriented Design** for modular and maintainable code  
+- Delivered a practical and beginner-friendly tool for learning **Java + MySQL integration**
+
 ---
-
-
-
 <h3 align="left">🛠 Language and tools</h3>
 
 <p align="left"> 
@@ -78,8 +71,8 @@ Perfect for **beginners learning Java + Database integration**.
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
   </a> 
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="150"/>
-  <img src="https://www.svgrepo.com/show/333604/spring-boot.svg" alt="Spring Boot" width="100"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="100"/>
+  <img src="https://www.svgrepo.com/show/333604/spring-boot.svg" alt="Spring Boot" width="1"/>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
   </a> 
@@ -87,7 +80,7 @@ Perfect for **beginners learning Java + Database integration**.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
   </a> 
 </p>
-
+---
 🧰 Tools: IntelliJ, GitHub(using basic command), VS Code, Eclipse(basics), MySQL workbench 
 
 💡 Soft Skills: Analytical Thinking, Problem-Solving, Adaptability,Concurrent programmer,Time management  
