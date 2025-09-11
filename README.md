@@ -91,7 +91,7 @@
 
 ### 📈 GitHub Status
 
-<p><img align="left" src="https://github-readme-status.vercel.app/api/top-langs?username=sandhiya1321&show_icons=true&locale=en&layout=compact" alt="sandhiya1321" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandhiya1321&show_icons=true&locale=en&layout=compact" alt="sandhiya1321" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhiya1321&show_icons=true&locale=en" alt="sandhiya1321" /></p>
 
