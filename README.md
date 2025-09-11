@@ -36,6 +36,16 @@
 ---
 ### 💻 Technical Projects
 
+## 🧳 Lost and Found Portal (August 2025)
+
+- Developed a **console-based Java application** to manage lost and found items  
+- Integrated with **MySQL** using **JDBC** for persistent data storage  
+- Implemented:  
+  - 🗃️ **CRUD operations**: add, view, and search items  
+  - 🔗 **Secure SQL queries** with JDBC  
+  - 🧠 **Object-Oriented Design** for modular and maintainable code  
+- Delivered a practical and beginner-friendly tool for learning **Java + MySQL integration**
+
 ## 📊 CGPA Calculator (May 2025)
 - Developed a **web-based CGPA calculator** using **Java**
 - Applied **Object-Oriented Programming (OOP)** principles:
@@ -53,15 +63,7 @@
 - Delivered a dynamic and engaging gameplay experience
 
 
-## 🧳 Lost and Found Portal (August 2025)
 
-- Developed a **console-based Java application** to manage lost and found items  
-- Integrated with **MySQL** using **JDBC** for persistent data storage  
-- Implemented:  
-  - 🗃️ **CRUD operations**: add, view, and search items  
-  - 🔗 **Secure SQL queries** with JDBC  
-  - 🧠 **Object-Oriented Design** for modular and maintainable code  
-- Delivered a practical and beginner-friendly tool for learning **Java + MySQL integration**
 
 ---
 <h3 align="left">🛠 Language and tools</h3>
