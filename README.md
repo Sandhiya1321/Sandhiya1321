@@ -22,6 +22,8 @@
 
 🧮 Built a **lost and found portal** using **Java Oops concepts,JDBC,Mysql**
 
+🧮 Built a functional **CGPA calculator** using **Java Oops concepts**
+
 🧮 Built a functional **calculator** using **HTML, CSS, and JavaScript**
 
 🧮 **flappy bird game**  and  **CGPA Calculator** using **Java Oops Concept**
