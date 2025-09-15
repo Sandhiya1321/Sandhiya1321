@@ -13,18 +13,21 @@
 ### 👩‍💻 About Me
 
 🎓 Computer Science and Engineering Student  
-📚 Passionate about **Java development**, **DSA**, and **Frontend technologies**  
-💭 Planning to study SpringBoot in future.  
+📚 Passionate about **Java development**, **DSA**, **Frontend technologies** and **frame work-SpringBoot**
+💭 Planning to study Advanced Java in future.  
 ⚡ In my free time I love to read fictional stories(online)
 
+
 💡 Completed basics of **Java**, including **Recursion**  **OOPS concepts**  **SQL** and **JDBC**
+
+🧮 Built a **lost and found portal** using **Java Oops concepts,JDBC,Mysql**
 
 🧮 Built a functional **calculator** using **HTML, CSS, and JavaScript**
 
 🧮 **flappy bird game**  and  **CGPA Calculator** using **Java Oops Concept**
 
 ---
-- 🌱 I’m currently learning **DSA, Frontend**
+- 🌱 I’m currently learning **Spring boot,DSA**
 - 📫 How to reach me **sandhiyasaprkle1234@gmail.com**
 - 🧠 Actively solving problems on [LeetCode](https://leetcode.com/u/Diya1213/) to sharpen my problem-solving skills
 - 📄 <a href="https://drive.google.com/file/d/1zPI1uhR9283p1s3IoyTzckRI5Gw6-5mo/view?usp=drive_link" target="blank">
