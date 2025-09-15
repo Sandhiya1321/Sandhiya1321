@@ -78,9 +78,13 @@
   </a> 
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="100"/>
   <img src="https://www.svgrepo.com/show/333604/spring-boot.svg" alt="Spring Boot" width="1"/>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+  <img src="https://www.svgrepo.com/show/333604/spring-boot.svg" alt="Spring Boot" width="40" height="40"/> 
+</a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
   </a> 
+  
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
   </a> 
