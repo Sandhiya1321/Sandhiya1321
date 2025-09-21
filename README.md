@@ -14,7 +14,7 @@
 
 🎓 Computer Science and Engineering Student  
 📚 Passionate about **Java development**, **DSA**, **Frontend technologies** and **frame work-SpringBoot**
-💭 Planning to study Advanced Java in future.  
+💭 Planning to study Front end in future.  
 ⚡ In my free time I love to read fictional stories(online)
 
 
@@ -24,9 +24,10 @@
 
 🧮 Built a functional **CGPA calculator** using **Java Oops concepts**
 
+🧮 **flappy bird game**  and  **CGPA Calculator** using **Java Oops Concept**
+
 🧮 Built a functional **calculator** using **HTML, CSS, and JavaScript**
 
-🧮 **flappy bird game**  and  **CGPA Calculator** using **Java Oops Concept**
 
 ---
 - 🌱 I’m currently learning **Spring boot,DSA**
@@ -80,8 +81,8 @@
   </a> 
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="100"/>
   <img src="https://www.svgrepo.com/show/333604/spring-boot.svg" alt="Spring Boot" width="1"/>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-  <img src="https://www.svgrepo.com/show/333604/spring-boot.svg" alt="Spring Boot" width="40" height="40"/> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot Logo" width="40" height="40"/>
 </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
