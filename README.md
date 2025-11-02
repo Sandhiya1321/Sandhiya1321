@@ -18,7 +18,7 @@
 ⚡ In my free time I love to read fictional stories(online)
 
 
-💡 Completed basics of **Java**, including **Recursion**  **OOPS concepts**  **SQL** and **JDBC**
+💡 Completed basics of **Java**, including **Recursion**  **OOPS concepts**  **SQL** and **JDBC**  
 
 🧮 Built a **lost and found portal** using **Java Oops concepts,JDBC,Mysql**
 
@@ -84,13 +84,18 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot Logo" width="40" height="40"/>
 </a>
+<a href="https://www.linux.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+  </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
   </a> 
   
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
+  
 </p>
 ---
 🧰 Tools: IntelliJ, GitHub(using basic command), VS Code, Eclipse(basics), MySQL workbench 
