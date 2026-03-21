@@ -42,18 +42,7 @@
 ---
 ### 💻 Technical Projects
 
-## 🌿Plant Leaf Disease Detection System (February 2026) 
 
-- Developed a web application to detect plant leaf diseases
-- Integrated Spring Boot (Java) with Python CNN model for prediction
-- Used MySQL to store user data and prediction results
-- Implemented
-  - 📤 Image upload system through web interface
-  - 🧹 Image preprocessing (noise removal, resizing, normalization)
-  - 🌿 Leaf segmentation to extract leaf from background
-  - 🧠 CNN model for disease detection
-  - 📊 Prediction result with confidence score
-- Helps farmers in early disease detection and improves crop productivity
 
 ## 🧳 Lost and Found Portal (August 2025)
 
