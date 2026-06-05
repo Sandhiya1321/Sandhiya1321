@@ -20,6 +20,8 @@
 
 💡 Completed basics of **Java**, including **Recursion**  **OOPS concepts**  **SQL** and **JDBC**  
 
+🧮 Built a **Plant Leaf Disease Detection** using **Java, MySQL, JDBC, SpringBoot, CNN**
+
 🧮 Built a **lost and found portal** using **Java Oops concepts,JDBC,Mysql**
 
 🧮 Built a functional **CGPA calculator** using **Java Oops concepts**
@@ -42,7 +44,7 @@
 ---
 ### 💻 Technical Projects
 
-##  ☘️ Plant Leaf Disease Detection Using CNN (March 2026)
+##  ☘️ Plant Leaf Disease Detection Using CNN (March 2026) -- **FINAL YEAR PROJECT**
 - Developed a **web based Java application** to find the disease in the palnt leaves
 - Integrated with **MySQL** using **JDBC** for persistent data storage
 - used **CNN** for Image processing
