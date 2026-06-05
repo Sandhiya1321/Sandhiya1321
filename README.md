@@ -42,7 +42,14 @@
 ---
 ### 💻 Technical Projects
 
-
+##  ☘️ Plant Leaf Disease Detection Using CNN (March 2026)
+- Developed a **web based Java application** to find the disease in the palnt leaves
+- Integrated with **MySQL** using **JDBC** for persistent data storage
+- used **CNN** for Image processing
+  - 🗃️ **CRUD operations**: add, view, and display items  
+  - 🔗 **Secure SQL queries** with JDBC  
+  - 🧠 **Object-Oriented Design** using concepts Inheritance,Encapsulation,Abstraction
+  - 🧠 uses **ML** model
 
 ## 🧳 Lost and Found Portal (August 2025)
 
